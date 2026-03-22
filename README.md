@@ -17,6 +17,10 @@ PHP | MySQL | HTML | CSS | WAMP
 2. Import database.sql in phpMyAdmin
 3. Run on localhost
 
+## 👤 Login Credentials
+Administrator : admin, admin123
+Demo User : krrishumac, krish0211
+
 ## 📸 Screenshots
 
 ### 🔐 Index & Login / Registration
