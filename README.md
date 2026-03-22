@@ -18,7 +18,7 @@ PHP | MySQL | HTML | CSS | WAMP
 3. Run on localhost
 
 ## 👤 Login Credentials
-Administrator : admin, admin123
+Administrator : admin, admin123 |
 Demo User : krrishumac, krish0211
 
 ## 📸 Screenshots
